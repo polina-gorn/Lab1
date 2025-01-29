@@ -1,1 +1,515 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Cuzco","dates of stay":"Dec 26-31","a memory":"coca tea","marker-color":"#850101","marker-symbol":"mountain"},"geometry":{"coordinates":[-71.97745130918676,-13.523930587058075],"type":"Point"}},{"type":"Feature","properties":{"name":"Ollantaytambo","dates of stay":"Dec 27","a memory":"liminal walk","marker-color":"#850101","marker-symbol":"playground"},"geometry":{"coordinates":[-72.26462499825655,-13.260447012937775],"type":"Point"}},{"type":"Feature","properties":{"name":"Lima","dates of stay":"Dec 25, Dec 31","a memory":"ocean sunset","marker-color":"#850101","marker-symbol":"city"},"geometry":{"coordinates":[-77.03588004919213,-12.070745246716115],"type":"Point"}},{"type":"Feature","properties":{"name":"Paracas","dates of stay":"Jan 1-2","a memory":"penguins and sealions","marker-color":"#850101","marker-symbol":"zoo"},"geometry":{"coordinates":[-76.24967894393538,-13.83500549868863],"type":"Point"}},{"type":"Feature","properties":{"name":"Ensenada","dates of stay":"Dec 18-24","a memory":"Isa, hikes, home","marker-color":"#056608","marker-symbol":"town"},"geometry":{"coordinates":[-116.60629682235306,31.864821393327773],"type":"Point"}},{"type":"Feature","properties":{"name":"Toronto","dates of stay":"N/A","a memory":"second home","marker-color":"#FF0000","marker-symbol":"home"},"geometry":{"coordinates":[-79.35983208886972,43.646519937582354],"type":"Point"}},{"type":"Feature","properties":{"name":"Moscow","dates of stay":"January 1-8, June 4-25","a memory":"hometown","marker-color":"#0039A6","marker-symbol":"home"},"geometry":{"coordinates":[37.757738311874164,55.735871341107384],"type":"Point"}},{"type":"Feature","properties":{"name":"Sochi/Krasnaya Polyana","dates of stay":"January 3-5","a memory":"mountains, sun, sea","marker-color":"#0039A6","marker-symbol":"mountain"},"geometry":{"coordinates":[40.204604595758525,43.67746067807866],"type":"Point"}},{"type":"Feature","properties":{"name":"Amsterdam","dates of stay":"June 24 - July 18","a memory":"bikes, friends, school, fun","marker-color":"#FF9900","marker-symbol":"bicycle"},"geometry":{"coordinates":[4.890579113276061,52.373793065020635],"type":"Point"}},{"type":"Feature","properties":{"name":"Haarlem","dates of stay":"July 7","a memory":"panopticon","marker-color":"#FF9900","marker-symbol":"prison"},"geometry":{"coordinates":[4.646067645234069,52.3827186079761],"type":"Point"}},{"type":"Feature","properties":{"name":"Almere","dates of stay":"July 4","a memory":"fake city","marker-color":"#FF9900","marker-symbol":"village"},"geometry":{"coordinates":[5.2210192939198805,52.36734412597488],"type":"Point"}},{"type":"Feature","properties":{"name":"Utrecht","dates of stay":"June 29","a memory":"a quieter Amsterdam","marker-color":"#FF9900","marker-symbol":"village"},"geometry":{"coordinates":[5.122169133146542,52.085207499038376],"type":"Point"}},{"type":"Feature","properties":{"name":"Rotterdam","dates of stay":"July 5","a memory":"empty","marker-color":"#FF9900","marker-symbol":"harbor"},"geometry":{"coordinates":[4.471789417163876,51.91436790563907],"type":"Point"}},{"type":"Feature","properties":{"name":"the Hague","dates of stay":"June 30","a memory":"disproportionately huge buildings","marker-color":"#FF9900","marker-symbol":"harbor"},"geometry":{"coordinates":[4.305642510748299,52.071070482830464],"type":"Point"}},{"type":"Feature","properties":{"name":"Otterlo","dates of stay":"July 13","a memory":"Van Gogh landscape in real life","marker-color":"#FF9900","marker-symbol":"bicycle"},"geometry":{"coordinates":[5.825013295702718,52.093328295834965],"type":"Point"}},{"type":"Feature","properties":{"name":"Oludeniz","dates of stay":"July 18 - August 1","a memory":"mountains, sea, paragliding, stars","marker-color":"#E30A17","marker-symbol":"mountain"},"geometry":{"coordinates":[29.12252896098866,36.548569522340216],"type":"Point"}},{"type":"Feature","properties":{"name":"Milan","dates of stay":"January 8","a memory":"layover, walked at Duomo, bought meds","marker-color":"#009246","marker-symbol":"city"},"geometry":{"coordinates":[9.145671733549335,45.46624615916588],"type":"Point"}},{"type":"Feature","properties":{"name":"London","dates of stay":"Oct 26-29","a memory":"my birthday, my friends","marker-color":"#00247D","marker-symbol":"city"},"geometry":{"coordinates":[-0.0996359217499787,51.494764512334285],"type":"Point"}},{"type":"Feature","properties":{"name":"Seven Sisters Cliffs","dates of stay":"Oct 28","a memory":"beauty","marker-color":"#00247D","marker-symbol":"mountain"},"geometry":{"coordinates":[0.10204760802076862,50.77064362700648],"type":"Point"}},{"type":"Feature","properties":{"name":"Glasgow","dates of stay":"Oct 29 - Nov 1","a memory":"got sick","marker-color":"#00247D","marker-symbol":"lodging"},"geometry":{"coordinates":[-4.244946520076496,55.863171376210204],"type":"Point"}},{"type":"Feature","properties":{"name":"Edinburgh","dates of stay":"Oct 31","a memory":"Beautiful Celtic Art, Arthur's Seat, Samhuinn","marker-color":"#00247D","marker-symbol":"museum"},"geometry":{"coordinates":[-3.1810298456416604,55.95549882310357],"type":"Point"}},{"type":"Feature","properties":{"name":"Montreal","dates of stay":"April 19-22","a memory":"solo-trip: biking, observing","marker-color":"#FF0000","marker-symbol":"bicycle"},"geometry":{"coordinates":[-73.56274334043395,45.503619046087636],"type":"Point"}},{"type":"Feature","properties":{"name":"Barrie","dates of stay":"February 23rd","a memory":"delicious pizza","marker-color":"#FF0000","marker-symbol":"city"},"geometry":{"coordinates":[-79.66965432766797,44.38878074848361],"type":"Point"}},{"type":"Feature","properties":{"name":"Ravenna","dates of stay":"September 20-21","a memory":"UTOC trip","marker-color":"#FF0000","marker-symbol":"village"},"geometry":{"coordinates":[-80.21426580806144,44.48348007460842],"type":"Point"}},{"type":"Feature","properties":{"name":"Niagara Falls","dates of stay":"November 30 - December 1","a memory":"Night drive to see the falls","marker-color":"#FF0000","marker-symbol":"water"},"geometry":{"coordinates":[-79.06581073040836,43.104811908141414],"type":"Point"}},{"type":"Feature","properties":{"name":"Havelock","dates of stay":"October 13-14","a memory":"weird trip","marker-color":"#FF0000","marker-symbol":"village"},"geometry":{"coordinates":[-77.88594712770403,44.433270332332654],"type":"Point"}},{"type":"Feature","properties":{"name":"Uxbridge","dates of stay":"February 20","a memory":"Ski Trip!","marker-color":"#FF0000","marker-symbol":"mountain"},"geometry":{"coordinates":[-79.06056275720213,44.02399530482276],"type":"Point"}},{"type":"Feature","properties":{"name":"Hamilton","dates of stay":"February 16","a memory":"I just wanted to not be in Toronto","marker-color":"#FF0000","marker-symbol":"city"},"geometry":{"coordinates":[-79.86375579918594,43.25197775239289],"type":"Point"}},{"type":"Feature","properties":{"name":"Calgary","dates of stay":"August 18-19","a memory":"Nice library, drunk people, airport sleep","marker-color":"#FF0000","marker-symbol":"city"},"geometry":{"coordinates":[-114.03963636690098,51.03144239765908],"type":"Point"}},{"type":"Feature","properties":{"name":"Banff","dates of stay":"August 14-18","a memory":"Beauty.","marker-color":"#FF0000","marker-symbol":"mountain"},"geometry":{"coordinates":[-115.57262070552163,51.17274951038212],"type":"Point"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuzco",
+        "dates of stay": "Dec 26-31",
+        "a memory": "coca tea",
+        "marker-color": "#850101",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.97745130918676,
+          -13.523930587058075
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ollantaytambo",
+        "dates of stay": "Dec 27",
+        "a memory": "liminal walk",
+        "marker-color": "#850101",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "coordinates": [
+          -72.26462499825655,
+          -13.260447012937775
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lima",
+        "dates of stay": "Dec 25, Dec 31",
+        "a memory": "ocean sunset",
+        "marker-color": "#850101",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.03588004919213,
+          -12.070745246716115
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paracas",
+        "dates of stay": "Jan 1-2",
+        "a memory": "penguins and sealions",
+        "marker-color": "#850101",
+        "marker-symbol": "zoo"
+      },
+      "geometry": {
+        "coordinates": [
+          -76.24967894393538,
+          -13.83500549868863
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ensenada",
+        "dates of stay": "Dec 18-24",
+        "a memory": "Isa, hikes, home",
+        "marker-color": "#056608",
+        "marker-symbol": "town"
+      },
+      "geometry": {
+        "coordinates": [
+          -116.60629682235306,
+          31.864821393327773
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto",
+        "dates of stay": "N/A",
+        "a memory": "second home",
+        "marker-color": "#FF0000",
+        "marker-symbol": "home"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.35983208886972,
+          43.646519937582354
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moscow",
+        "dates of stay": "January 1-8, June 4-25",
+        "a memory": "hometown",
+        "marker-color": "#0039A6",
+        "marker-symbol": "home"
+      },
+      "geometry": {
+        "coordinates": [
+          37.757738311874164,
+          55.735871341107384
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sochi/Krasnaya Polyana",
+        "dates of stay": "January 3-5",
+        "a memory": "mountains, sun, sea",
+        "marker-color": "#0039A6",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          40.204604595758525,
+          43.67746067807866
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amsterdam",
+        "dates of stay": "June 24 - July 18",
+        "a memory": "bikes, friends, school, fun",
+        "marker-color": "#FF9900",
+        "marker-symbol": "bicycle"
+      },
+      "geometry": {
+        "coordinates": [
+          4.890579113276061,
+          52.373793065020635
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haarlem",
+        "dates of stay": "July 7",
+        "a memory": "panopticon",
+        "marker-color": "#FF9900",
+        "marker-symbol": "prison"
+      },
+      "geometry": {
+        "coordinates": [
+          4.646067645234069,
+          52.3827186079761
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Almere",
+        "dates of stay": "July 4",
+        "a memory": "fake city",
+        "marker-color": "#FF9900",
+        "marker-symbol": "village"
+      },
+      "geometry": {
+        "coordinates": [
+          5.2210192939198805,
+          52.36734412597488
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utrecht",
+        "dates of stay": "June 29",
+        "a memory": "a quieter Amsterdam",
+        "marker-color": "#FF9900",
+        "marker-symbol": "village"
+      },
+      "geometry": {
+        "coordinates": [
+          5.122169133146542,
+          52.085207499038376
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotterdam",
+        "dates of stay": "July 5",
+        "a memory": "empty",
+        "marker-color": "#FF9900",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          4.471789417163876,
+          51.91436790563907
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the Hague",
+        "dates of stay": "June 30",
+        "a memory": "disproportionately huge buildings",
+        "marker-color": "#FF9900",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "coordinates": [
+          4.305642510748299,
+          52.071070482830464
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otterlo",
+        "dates of stay": "July 13",
+        "a memory": "Van Gogh landscape in real life",
+        "marker-color": "#FF9900",
+        "marker-symbol": "bicycle"
+      },
+      "geometry": {
+        "coordinates": [
+          5.825013295702718,
+          52.093328295834965
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oludeniz",
+        "dates of stay": "July 18 - August 1",
+        "a memory": "mountains, sea, paragliding, stars",
+        "marker-color": "#E30A17",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          29.12252896098866,
+          36.548569522340216
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milan",
+        "dates of stay": "January 8",
+        "a memory": "layover, walked at Duomo, bought meds",
+        "marker-color": "#009246",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          9.145671733549335,
+          45.46624615916588
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "London",
+        "dates of stay": "Oct 26-29",
+        "a memory": "my birthday, my friends",
+        "marker-color": "#00247D",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.0996359217499787,
+          51.494764512334285
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Sisters Cliffs",
+        "dates of stay": "Oct 28",
+        "a memory": "beauty",
+        "marker-color": "#00247D",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          0.10204760802076862,
+          50.77064362700648
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glasgow",
+        "dates of stay": "Oct 29 - Nov 1",
+        "a memory": "got sick",
+        "marker-color": "#00247D",
+        "marker-symbol": "lodging"
+      },
+      "geometry": {
+        "coordinates": [
+          -4.244946520076496,
+          55.863171376210204
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edinburgh",
+        "dates of stay": "Oct 31",
+        "a memory": "Beautiful Celtic Art, Arthur's Seat, Samhuinn",
+        "marker-color": "#00247D",
+        "marker-symbol": "museum"
+      },
+      "geometry": {
+        "coordinates": [
+          -3.1810298456416604,
+          55.95549882310357
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal",
+        "dates of stay": "April 19-22",
+        "a memory": "solo-trip: biking, observing",
+        "marker-color": "#FF0000",
+        "marker-symbol": "bicycle"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.56274334043395,
+          45.503619046087636
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrie",
+        "dates of stay": "February 23rd",
+        "a memory": "delicious pizza",
+        "marker-color": "#FF0000",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.66965432766797,
+          44.38878074848361
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ravenna",
+        "dates of stay": "September 20-21",
+        "a memory": "UTOC trip",
+        "marker-color": "#FF0000",
+        "marker-symbol": "village"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.21426580806144,
+          44.48348007460842
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Falls",
+        "dates of stay": "November 30 - December 1",
+        "a memory": "Night drive to see the falls",
+        "marker-color": "#FF0000",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.06581073040836,
+          43.104811908141414
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havelock",
+        "dates of stay": "October 13-14",
+        "a memory": "weird trip",
+        "marker-color": "#FF0000",
+        "marker-symbol": "village"
+      },
+      "geometry": {
+        "coordinates": [
+          -77.88594712770403,
+          44.433270332332654
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uxbridge",
+        "dates of stay": "February 20",
+        "a memory": "Ski Trip!",
+        "marker-color": "#FF0000",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.06056275720213,
+          44.02399530482276
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hamilton",
+        "dates of stay": "February 16",
+        "a memory": "I just wanted to not be in Toronto",
+        "marker-color": "#FF0000",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -79.86375579918594,
+          43.25197775239289
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary",
+        "dates of stay": "August 18-19",
+        "a memory": "Nice library, drunk people, airport sleep",
+        "marker-color": "#FF0000",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "coordinates": [
+          -114.03963636690098,
+          51.03144239765908
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff",
+        "dates of stay": "August 14-18",
+        "a memory": "Beauty.",
+        "marker-color": "#FF0000",
+        "marker-symbol": "mountain"
+      },
+      "geometry": {
+        "coordinates": [
+          -115.57262070552163,
+          51.17274951038212
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
